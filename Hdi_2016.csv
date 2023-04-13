@@ -1,0 +1,190 @@
+Country,Year,hdi,Index
+Afghanistan,2016,0.490,49
+Albania,2016,0.780,78
+Algeria,2016,0.750,75
+Andorra,2016,0.860,86
+Angola,2016,0.580,58
+Antigua and Barbuda,2016,0.780,78
+Argentina,2016,0.820,82
+Armenia,2016,0.750,75
+Australia,2016,0.940,94
+Austria,2016,0.910,91
+Azerbaijan,2016,0.760,76
+Bahamas,2016,0.810,81
+Bahrain,2016,0.850,85
+Bangladesh,2016,0.600,60
+Barbados,2016,0.800,80
+Belarus,2016,0.810,81
+Belgium,2016,0.920,92
+Belize,2016,0.710,71
+Benin,2016,0.510,51
+Bhutan,2016,0.610,61
+Bolivia,2016,0.690,69
+Bosnia and Herzegovina,2016,0.770,77
+Botswana,2016,0.710,71
+Brazil,2016,0.760,76
+Brunei,2016,0.850,85
+Bulgaria,2016,0.810,81
+Burkina Faso,2016,0.420,42
+Burundi,2016,0.420,42
+Cambodia,2016,0.580,58
+Cameroon,2016,0.550,55
+Canada,2016,0.920,92
+Cape Verde,2016,0.650,65
+Central African Republic,2016,0.360,36
+Chad,2016,0.410,41
+Chile,2016,0.840,84
+China,2016,0.750,75
+Colombia,2016,0.750,75
+Comoros,2016,0.500,50
+Congo,2016,0.610,61
+Costa Rica,2016,0.790,79
+Cote d'Ivoire,2016,0.490,49
+Croatia,2016,0.830,83
+Cuba,2016,0.770,77
+Cyprus,2016,0.870,87
+Czechia,2016,0.890,89
+Democratic Republic of Congo,2016,0.450,45
+Denmark,2016,0.930,93
+Djibouti,2016,0.470,47
+Dominica,2016,0.720,72
+Dominican Republic,2016,0.730,73
+Ecuador,2016,0.750,75
+Egypt,2016,0.690,69
+El Salvador,2016,0.680,68
+Equatorial Guinea,2016,0.590,59
+Eritrea,2016,0.440,44
+Estonia,2016,0.870,87
+Eswatini,2016,0.590,59
+Ethiopia,2016,0.460,46
+Fiji,2016,0.740,74
+Finland,2016,0.920,92
+France,2016,0.900,90
+Gabon,2016,0.700,70
+Gambia,2016,0.460,46
+Georgia,2016,0.780,78
+Germany,2016,0.930,93
+Ghana,2016,0.590,59
+Greece,2016,0.870,87
+Grenada,2016,0.770,77
+Guatemala,2016,0.650,65
+Guinea,2016,0.450,45
+Guinea-Bissau,2016,0.450,45
+Guyana,2016,0.650,65
+Haiti,2016,0.500,50
+Honduras,2016,0.610,61
+Hong Kong,2016,0.930,93
+Hungary,2016,0.840,84
+Iceland,2016,0.930,93
+India,2016,0.640,64
+Indonesia,2016,0.690,69
+Iran,2016,0.800,80
+Iraq,2016,0.670,67
+Ireland,2016,0.930,93
+Israel,2016,0.900,90
+Italy,2016,0.880,88
+Jamaica,2016,0.730,73
+Japan,2016,0.910,91
+Jordan,2016,0.740,74
+Kazakhstan,2016,0.800,80
+Kenya,2016,0.590,59
+Kiribati,2016,0.610,61
+Korea,2016,0.900,90
+Kuwait,2016,0.800,80
+Kyrgyzstan,2016,0.670,67
+Laos,2016,0.600,60
+Latvia,2016,0.840,84
+Lebanon,2016,0.750,75
+Lesotho,2016,0.520,52
+Liberia,2016,0.430,43
+Libya,2016,0.690,69
+Liechtenstein,2016,0.920,92
+Lithuania,2016,0.860,86
+Luxembourg,2016,0.900,90
+Madagascar,2016,0.520,52
+Malawi,2016,0.470,47
+Malaysia,2016,0.800,80
+Maldives,2016,0.710,71
+Mali,2016,0.420,42
+Malta,2016,0.880,88
+Mauritania,2016,0.520,52
+Mauritius,2016,0.790,79
+Mexico,2016,0.770,77
+Micronesia (country),2016,0.630,63
+Moldova,2016,0.700,70
+Mongolia,2016,0.740,74
+Montenegro,2016,0.810,81
+Morocco,2016,0.660,66
+Mozambique,2016,0.440,44
+Myanmar,2016,0.570,57
+Namibia,2016,0.650,65
+Nepal,2016,0.570,57
+Netherlands,2016,0.930,93
+New Zealand,2016,0.920,92
+Nicaragua,2016,0.660,66
+Niger,2016,0.350,35
+Nigeria,2016,0.530,53
+North Macedonia,2016,0.760,76
+Norway,2016,0.950,95
+Oman,2016,0.820,82
+Pakistan,2016,0.560,56
+Palau,2016,0.800,80
+Palestine,2016,0.690,69
+Panama,2016,0.790,79
+Papua New Guinea,2016,0.540,54
+Paraguay,2016,0.700,70
+Peru,2016,0.750,75
+Philippines,2016,0.700,70
+Poland,2016,0.860,86
+Portugal,2016,0.850,85
+Qatar,2016,0.860,86
+Romania,2016,0.810,81
+Russia,2016,0.820,82
+Rwanda,2016,0.520,52
+Saint Kitts and Nevis,2016,0.770,77
+Saint Lucia,2016,0.750,75
+Saint Vincent and the Grenadines,2016,0.720,72
+Samoa,2016,0.710,71
+Sao Tome and Principe,2016,0.580,58
+Saudi Arabia,2016,0.850,85
+Senegal,2016,0.500,50
+Serbia,2016,0.790,79
+Seychelles,2016,0.790,79
+Sierra Leone,2016,0.410,41
+Singapore,2016,0.930,93
+Slovakia,2016,0.850,85
+Slovenia,2016,0.890,89
+Solomon Islands,2016,0.540,54
+South Africa,2016,0.700,70
+South Korea,2016,0.900,90
+South Sudan,2016,0.390,39
+Spain,2016,0.890,89
+Sri Lanka,2016,0.770,77
+Sudan,2016,0.500,50
+Suriname,2016,0.720,72
+Sweden,2016,0.930,93
+Switzerland,2016,0.940,94
+Syria,2016,0.540,54
+Tajikistan,2016,0.650,65
+United Republic of Tanzania,2016,0.530,53
+Thailand,2016,0.750,75
+Timor,2016,0.630,63
+Togo,2016,0.500,50
+Tonga,2016,0.720,72
+Trinidad and Tobago,2016,0.790,79
+Tunisia,2016,0.730,73
+Turkey,2016,0.790,79
+Turkmenistan,2016,0.710,71
+Uganda,2016,0.510,51
+Ukraine,2016,0.750,75
+United Arab Emirates,2016,0.860,86
+United Kingdom,2016,0.920,92
+USA,2016,0.920,92
+Uruguay,2016,0.800,80
+Uzbekistan,2016,0.700,70
+Vanuatu,2016,0.600,60
+Venezuela,2016,0.770,77
+Vietnam,2016,0.690,69
+Yemen,2016,0.460,46
+Zambia,2016,0.590,59
+Zimbabwe,2016,0.530,53
